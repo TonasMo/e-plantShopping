@@ -1,6 +1,6 @@
 # coding-project-template
 
-Neste projeto final, criou-se um aplicativo de carrinho de compras para uma loja online de plantas que oferece uma variedade de plantas de interior.
+Neste projeto final com o nome de e-plantShopping, criou-se um aplicativo de carrinho de compras para uma loja online de plantas que oferece uma variedade de plantas de interior.
 As funcionalidades do carrinho de compras Paradise Nursery incluiem:
 Uma página inicial com um botão que liga à página de listagem de produtos
 Uma barra de navegação com links para as páginas inicial, listagem de produtos e carrinho de compras
